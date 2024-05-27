@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mari Bagikan Keseruan Harimu!!</string>
+    <string name="title_welcome_page">Selamat datang di StoryApp</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini oke</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk upgrade skill?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Bersenang-Senang</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="error_email">Format Email Tidak Valid\n</string>
+    <string name="error_password">Minimal 8 Karakter\n</string>
+    <string name="error_empty_field">Kolom ini harus disi</string>
+    <string name="author">Pencipta</string>
+    <string name="dummyPict">Gambar Dummy</string>
+    <string name="time_stamp">26 - 09 - 2024</string>
+    <string name="story_app">Story App</string>
+    <string name="text_by">oleh</string>
+    <string name="image_detail">Gambar Detail</string>
+    <string name="text_story">STORY</string>
+    <string name="story_desc">Deskripsi Story</string>
+    <string name="description">Deskripsi</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="upload">Upload</string>
+    <string name="NoImg">tidak ada gambar</string>
+</resources>

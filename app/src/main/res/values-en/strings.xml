@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="message_welcome_page">Share Your Fun Moments!!</string>
+    <string name="title_welcome_page">Welcome to StoryApp</string>
+    <string name="title_signup_page">Complete your data below, okay</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Please enter your data first</string>
+    <string name="title_login_page">Are you ready to upgrade your skills?</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Have Fun!</string>
+    <string name="greeting">Hello %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="error_email">Invalid Email Format\n</string>
+    <string name="error_password">Minimum 8 Characters\n</string>
+    <string name="error_empty_field">This field must be filled</string>
+    <string name="author">Author</string>
+    <string name="dummyPict">Dummy Image</string>
+    <string name="time_stamp">September 26, 2024</string>
+    <string name="story_app">Story App</string>
+    <string name="text_by">by</string>
+    <string name="image_detail">Detail Image</string>
+    <string name="text_story">STORY</string>
+    <string name="story_desc">Story Description</string>
+    <string name="description">Description</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload</string>
+    <string name="NoImg">No image selected</string>
+
+</resources>
